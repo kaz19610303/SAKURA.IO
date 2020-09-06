@@ -1,2 +1,2 @@
 # SAKURA.IO
-Aruduino UNoでsakura.io使うためのサンプルプログラムです
+Aruduino UNOでsakura.io使うためのサンプルプログラムです
